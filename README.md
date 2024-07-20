@@ -1,4 +1,4 @@
-# md5-chacker
+# md5-checker
 MD5 Checkher / Calculator / Hasher for Termux v0.1
 
 How to Use:
