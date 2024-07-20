@@ -8,7 +8,9 @@ Open termux application and execute given codes below in order:
 * cd md5-checker <br>
 * chmod +x setup_and_run.sh <br>
 * ./setup_and_run.sh <br><br>
-* Once you do this setup, to use program another time use:
+
+## After installing this setup, execute the following command to run the program again at another time: <br>
+* ./run.sh <br><br>
 
 
 
