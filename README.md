@@ -3,6 +3,7 @@ MD5 Checkher / Calculator / Hasher for Termux v0.1
 <br>
 ## How to Use: <br>
 Open termux application and execute given codes below in order:
+* pkg install git (if you do not have git yet)
 * git clone https://github.com/poyrazozbeg1/md5-checker.git <br>
 * cd md5-checker <br>
 * chmod +x setup_and_run.sh <br>
