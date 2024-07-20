@@ -20,6 +20,12 @@ curl -L -o rockyou.txt https://github.com/brannondorsey/naive-hashcat/releases/d
 echo "Setting execute permission for the Python script..."
 chmod a+x md5-checker.py
 
+# Run dosyasına çalıştırma izni verme
+echo "Setting execute permission for the run script..."
+chmod +x run.sh
+
 # Python programını çalıştırma
 echo "Running the Python script..."
 python md5-checker.py
+
+
