@@ -7,11 +7,13 @@ Hash Cracker / Calculator  for Termux <br>
 
 ## Supported Hashes: <br>
 * MD5: ✓ <br>
-* SHA-1: X (soon) <br>
-* SHA-224: X (soon) <br>
-* SHA-256: X <br>
-* SHA-384: X <br>
-* SHA-512: X <br>
+* MD2 & MD4: ✓ <br>
+* MD3: NOT SUPPORTED X <br>
+* SHA-1: ✓ <br>
+* SHA-224: ✓ <br>
+* SHA-256: ✓ <br>
+* SHA-384: ✓ <br>
+* SHA-512: ✓ <br>
 
 ## How to Use: <br>
 Open termux application and execute given codes below in order:
