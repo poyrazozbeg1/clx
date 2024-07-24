@@ -1,8 +1,7 @@
-version 1.1
+version 1.1 beta
 
 ##Updates:
-*
-*
-*
-*
-*
+*md5 hash algorithm upgrated
+*md2 and md4 hashes added
+*sha-1,sha-2(256,224,384,512) hashes added
+*some bug fixed
