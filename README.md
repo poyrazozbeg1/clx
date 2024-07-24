@@ -25,8 +25,12 @@ Open termux application and execute given codes below in order:
 
 ## After installing this setup, execute the following command to run the program again at another time: <br>
 * ./run.sh <br><br>
-     ____   ____  __
-    / __/  / /\ \/ /
-   / /    / /  \/ /
-   \ \___/ /___/ /\ 
-    \___/_____/\/\_\ VERSION 1.1 - MD5
+
+......................................
+.....____   ____  __ .................
+..../ __/  / /\ \/ / .................
+.../ /    / /  \/ / ..................
+...\ \___/ /___/ /\ .................. 
+....\___/_____/\/\_\ VERSION 1.1 - MD5
+    
+
