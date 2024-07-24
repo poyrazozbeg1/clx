@@ -27,7 +27,7 @@ Open termux application and execute given codes below in order:
 * ./run.sh <br><br>
 
 ## CLX
-https://github.com/poyrazozbeg1/clx
+              
    █████████  █████       █████ █████
   ███░░░░░███░░███       ░░███ ░░███ 
  ███     ░░░  ░███        ░░███ ███  
