@@ -26,16 +26,7 @@ Open termux application and execute given codes below in order:
 ## After installing this setup, execute the following command to run the program again at another time: <br>
 * ./run.sh <br><br>
 
-## CLX
-              
-   █████████  █████       █████ █████
-  ███░░░░░███░░███       ░░███ ░░███ 
- ███     ░░░  ░███        ░░███ ███  
-░███          ░███         ░░█████   
-░███          ░███          ███░███  
-░░███     ███ ░███      █  ███ ░░███ 
- ░░█████████  ███████████ █████ █████
-  ░░░░░░░░░  ░░░░░░░░░░░ ░░░░░ ░░░░░ 
+
                                      
                                      
                                      
